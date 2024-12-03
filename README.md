@@ -18,7 +18,7 @@ To get started, you must have git and python installed on your computer. To inst
 To install the program you must use git to clone it onto your computer. You can do this by running the following in terminal:
 
 ```
-git clone .....
+git clone https://github.com/azingzap/winterRulesEngine.git
 
 ```
 Then `cd` into the project directory where you will install the requirements file by running:
